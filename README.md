@@ -5,7 +5,7 @@
 
 ![I am Frontend Developer](https://media.licdn.com/dms/image/D4E16AQGREufMVRPu-g/profile-displaybackgroundimage-shrink_350_1400/0/1686182023097?e=1695254400&v=beta&t=7Zx7g0kQVNWgb8Z4S0Q7yXKd-ynr0SDUfKMl5sxqouM)
 
-I am Cristian from Colombia, and I do content on Development. I am Computer Engineer 🖥️ graduated from La Sabana University, with a focus on Frontend development. I am passionate about creating projects that challenge me and push me out of my comfort zone in order to achieve objectives ✅. I really enjoy learning 📖 languages and frameworks like React, TypeScript and Next.js.
+I am **Cristian** from Colombia, and I do content on Development. I am **Computer Engineer** 🖥️ graduated from La Sabana University, with a focus on **Frontend development**. I am passionate about creating projects that challenge me and push me out of my comfort zone in order to achieve objectives ✅. I really enjoy learning 📖 languages and frameworks like React, TypeScript and Next.js.
 
 # Skills
 JavaScript | TypeScript | React | Node.js | Python | Next.js | HTML | CSS | Git | NPM | WebPack | SQL
