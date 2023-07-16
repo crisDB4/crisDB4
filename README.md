@@ -13,6 +13,7 @@ JavaScript | TypeScript | React | Node.js | Python | Next.js | HTML | CSS | Git 
 # Work & Learning
 
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
+
 - 🔭 I’m currently working on **some exciting personal projects and creating content to explore programming topics. Because I believe that the best way to learn is by practicing and teaching, I’m really enthusiastic about these endeavors!**
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
