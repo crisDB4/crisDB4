@@ -5,10 +5,10 @@
 
 ![I am Frontend Developer](/Banner.png)
 
-I am **Cristian** from Colombia, and I do content on Development. I am **Computer Engineer** 🖥️ graduated from La Sabana University, with a focus on **Frontend development**. I am passionate about creating projects that challenge me and push me out of my comfort zone in order to achieve objectives ✅. I really enjoy learning 📖 languages and frameworks like React, TypeScript and Next.js.
+I am **Cristian** from Colombia, and I do content on Development and Data Analytics. I am **Computer Engineer** 🖥️ graduated from La Sabana University, with a focus on **Data Analytics** and **Data Science**. I am passionate about creating projects that challenge me and push me out of my comfort zone in order to achieve objectives ✅. I really enjoy learning 📖 languages and frameworks like React, TypeScript and Next.js.
 
 # Skills
-JavaScript | TypeScript | React | Node.js | Python | Next.js | HTML | CSS | Git | NPM | WebPack | SQL
+Data Analyst | Data Scientist | Python | R | SQL | Pandas | NumPy | SciPy | Matplotlib | Seaborn | Jupyter | TensorFlow | PyTorch | Scikit-learn | Tableau | Power BI | Data Cleaning | Data Visualization | Machine Learning | Statistical Analysis | Selenium | Data Modeling | Git | ETL | EDA | Dashboards | JavaScript | TypeScript | React | Node.js | Python | Next.js | HTML | CSS | Git | NPM | WebPack | SQL
 
 # Work & Learning
 
@@ -18,11 +18,11 @@ JavaScript | TypeScript | React | Node.js | Python | Next.js | HTML | CSS | Git 
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
 
-- 💬 Ask me about **CSS, JavaScript, React, Next.js and TypeScript**
+- 💬 Ask me about **Python, DataViz, Machine Learning, JavaScript, React, Next.js and TypeScript**
 
 - 📫 How to reach me **cristian.arcos.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cristianbarreraarcos-desarrolladorfrontend/](https://www.linkedin.com/in/cristianbarreraarcos-desarrolladorfrontend/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/cristianbarreraarcos/](https://www.linkedin.com/in/cristianbarreraarcos/)
 
 # Connect with me
 <p align="left">
